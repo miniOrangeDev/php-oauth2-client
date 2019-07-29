@@ -1,0 +1,68 @@
+.license-line{
+    margin-top:20px;
+    margin-bottom: 20px;
+    border: 1px solid forestgreen;
+    height:5px;
+    color:forestgreen;
+    background-color: forestgreen;
+    width: 100%;
+}
+
+.pricing-row{
+    margin: 20px;;
+    width: 100%;
+    height: 100%;
+    list-style: none;
+}
+
+.pricing-block{
+    width: 33%;
+    float: left;
+    margin-top:5%;
+    margin-left: 7%;
+    margin-right: 7%;
+    position: relative;
+}
+
+.pricing-card{
+    width: 100%;
+    background-color: #f2f5f8;
+}
+
+.pricing-header{
+    padding: 10%;
+}
+
+.pricing-amount{
+    font-size: 40px;
+    color: #2f6062;
+    text-align: center;
+}
+
+.upgrade-button{
+    border: 2px solid #0c1f28;
+    background-color: #0c1f28;
+    width: 100%;
+    height: 40px;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+    transition: 0.25s all ease-in-out;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.upgrade-button:hover{
+    background-color: white;
+    color: #0c1f28;
+    transition: 0.25s all ease-in-out;
+}
+
+
+.pricing-body{
+    width: 100%;
+}
+
+tr td{
+    text-align: center;
+}
